@@ -1,1 +1,1 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=courier&pause=1000&color=26a641&random=true&width=435&lines=Pwned!;currently%3A+mashing+keyboard;currently%3A+spamming+F5+in+ida;currently%3A+working+on+work+stomper+project)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=26A641&center=true&random=true&width=435&lines=CTF+Player;Red+Teamer;Malware+Developer)](https://git.io/typing-svg)
